@@ -1,36 +1,39 @@
 <manifest alg="2" build="314" opt="false" iceEnabled="true">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4010264384" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="98165809" mt="1421434595530" redirect="true"/>
-  </folder>
   <folder name="css">
     <file name="site_global.css" crc="417434784"/>
-    <file name="index.css" crc="4237817831" ref="index"/>
-    <file name="iefonts_index.css" crc="261075742" ref="index"/>
+    <file name="index.css" crc="4283301053" ref="index"/>
+    <file name="iefonts_index.css" crc="74255641" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="3865766194" ref="index:phone>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:phone>index"/>
-    <file name="pie.js" crc="3827607177" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3865766194" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:index"/>
     <file name="museredirect.js" crc="236897542" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="bici_gris-u232-fr.png" crc="4124221425" ref="index"/>
-    <file name="u237.png" crc="155578487" ref="index"/>
-    <file name="u130-5.png" crc="4027336022" ref="index"/>
-    <file name="iphone-02.png" crc="4060903254" ref="index"/>
-    <file name="u201.png" crc="3919210349" ref="index"/>
-    <file name="375536_velosiped_svet_fon_2560x1600_(www.gdefon.ru).jpg" crc="4064052422" ref="index:phone>index"/>
     <file name="bici_gris-u314-fr.png" crc="203252453" ref="phone>index"/>
-    <file name="u315.png" crc="63564584" ref="phone>index"/>
+    <file name="u315.png" crc="404091037" ref="phone>index"/>
     <file name="u318-5.png" crc="20411314" ref="phone>index"/>
     <file name="iphone-02-u319-fr.png" crc="284029169" ref="phone>index"/>
     <file name="u328.png" crc="4017160880" ref="phone>index"/>
+    <file name="final_gris.jpg" crc="3905233130" ref="phone>index:index"/>
+    <file name="bici_gris-u232-fr.png" crc="4124221425" ref="index"/>
+    <file name="u237.png" crc="155578487" ref="index"/>
     <file name="u280.png" crc="198920084" ref="index"/>
+    <file name="iphone-02.png" crc="4060903254" ref="index"/>
+    <file name="u201.png" crc="410606874" ref="index"/>
+    <file name="ic_location-u388-fr.jpg" crc="37091552" ref="index"/>
+    <file name="ic_sensor-u389-fr.jpg" crc="203805466" ref="index"/>
+    <file name="ic_bateria-u390-fr.jpg" crc="4246933741" ref="index"/>
   </folder>
-  <file name="index.html" crc="257378362" mt="1421434771902" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4132173907" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3883271509" mt="1426045083009" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="293101534" mt="1426048663424" redirect="true"/>
 </manifest>
